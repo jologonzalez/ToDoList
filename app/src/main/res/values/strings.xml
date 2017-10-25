@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="escribeTarea">¿Que tarea?</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre">Nombre</string>
+    <string name="tienesUsusario">Ya tengo usuario</string>
+    <string name="facebook_app_id">1323815021060259</string>
+    <string name="fb_login_protocol_scheme">fb1323815021060259</string>
+    <string name="Fecha">Seleccionar fecha</string>
+    <string name="TFecha">Fecha</string>
+    <string name="aceptar">Aceptar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Recordar_contra">Recordar contraseña</string>
+    <string name="enviar">Enviar</string>
+</resources>
